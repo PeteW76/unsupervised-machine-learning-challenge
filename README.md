@@ -7,13 +7,9 @@
 
 > Code files:
 
-part_1_mars_news.ipynb\
-part_2_mars_weather.ipynb
+unsuper_myo.ipynb\
+myopia.csv
 
-
-> Output Files:
-
-mars_info.csv
 
 > Notes:
 
